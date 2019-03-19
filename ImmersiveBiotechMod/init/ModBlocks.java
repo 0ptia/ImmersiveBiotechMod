@@ -15,13 +15,14 @@ import com.optia.ImmersiveBiotechMod.blocks.Microinjector;
 import com.optia.ImmersiveBiotechMod.blocks.Microscope;
 
 import net.minecraft.block.Block;
+import net.minecraft.block.BlockContainer;
 import net.minecraft.block.material.Material;
 
 public class ModBlocks 
 {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
-	public static final Block MICROCENTRIFUGE = new Microcentrifuge("microcentrifuge", Material.IRON);
+	public static final Block MICROCENTRIFUGE = new Microcentrifuge();
 	public static final Block ULTRACENTRIFUGE = new Ultracentrifuge("ultracentrifuge", Material.IRON);
 	public static final Block GEL_BLOCK_MOLD = new Gelblockmold("gel_block_mold", Material.ICE);
 	public static final Block ELECTROPHORESIS_CHAMBER = new Electrophoresischamber("electrophoresis_chamber", Material.ICE);

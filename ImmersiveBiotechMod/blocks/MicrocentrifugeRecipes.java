@@ -9,6 +9,7 @@ import com.google.common.collect.Table;
 import com.optia.ImmersiveBiotechMod.init.ModItems;
 
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.crafting.FurnaceRecipes;
 
 public class MicrocentrifugeRecipes 
 {
@@ -72,5 +73,15 @@ public class MicrocentrifugeRecipes
 			}
 		}
 		return 0.0F;
+	}
+
+	public static MicrocentrifugeRecipes instance() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public ItemStack getSmeltingResult(ItemStack stack) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }
