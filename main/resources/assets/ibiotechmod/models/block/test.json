@@ -1,0 +1,13 @@
+{
+   "parent": "block/orientable",
+   "textures": 
+   {
+       "particle": "ibiotechmod/blocks:test",
+       "up": "ibiotechmod/blocks:test",
+       "down": "ibiotechmod/blocks:test",
+       "north": "ibiotechmod/blocks:test",
+       "east": "ibiotechmod/blocks:test",
+       "south": "ibiotechmod/blocks:test",
+       "west": "ibiotechmod/blocks:test"
+   }
+}

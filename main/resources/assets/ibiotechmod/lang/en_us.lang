@@ -1,0 +1,39 @@
+
+//Containers
+container.microcentrifuge=Microcentrifuge
+//Items
+item.scraper.name=Scraper
+item.tissue_sample.name=Tissue Sample
+item.anode.name=Anode
+item.bioplastic.name=Bioplastic Sheet
+item.cathode.name=Cathode
+item.cpu.name=CPU
+item.heater.name=Heater
+item.micropipette.name=Micropipette
+item.motor.name=Motor
+item.petri_dish.name=Petri Dish
+item.robot_arm.name=Robot Arm
+item.syringe.name=Syringe
+item.isopropanol.name=Isopropanol
+item.boiled_water_bottle.name=Boiled Water Bottle
+item.gracilaria.name=Gracilaria
+item.agarose.name=Agarose
+item.molten_agarose.name=Molten Agarose
+item.microfuge_tube.name=Microcentrifuge Tube
+item.ultrafuge_tube.name=Ultracentrifuge Tube
+item.well_comb.name=Well Comb
+
+//Blocks
+tile.test.name = Test
+tile.microcentrifuge.name=Microcentrifuge
+tile.ultracentrifuge.name=Ultracentrifuge
+tile.gel_block_mold.name=Gel Block Mold
+tile.electrophoresis_chamber.name=Electrophoresis Chamber
+tile.thermocycler.name=Thermocycler
+tile.electroporator.name=Electroporator
+tile.cell_incubator.name=Cell Incubator
+tile.microinjector.name=Microinjector
+tile.microscope.name=Microscope
+
+//Creative Tabs
+itemGroup.immersivebiotechnologytab=Immersive Biotechnology
